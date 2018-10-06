@@ -26,9 +26,6 @@ emoji_idx= extract_emojis(idx)
 
 print(emoji_idx)
 word_idx=idx.str.strip()
-#wordlist = word_idx.split()
-
-wordfreq = []
 
 
 
