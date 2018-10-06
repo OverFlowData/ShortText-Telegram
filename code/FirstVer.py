@@ -3,7 +3,6 @@
 
 import pandas as pd
 import emoji
-import collections
 from collections import Counter
 
 with open('group_posts.csv', 'r') as fd:
